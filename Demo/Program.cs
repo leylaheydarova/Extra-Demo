@@ -35,7 +35,7 @@
             break;
         case "a":
             Console.WriteLine("ATM-den cixis edilir...");
-            Console.WriteLine("Xeyirle xercleyin");
+            Console.WriteLine("Xeyirle xercleyin!");
             Console.ReadLine();
             break;
         default:
