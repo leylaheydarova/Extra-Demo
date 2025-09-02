@@ -1,0 +1,15 @@
+D:\Programming\Teaching\Extra\Demo\Demo\bin\Debug\net8.0\Demo.exe
+D:\Programming\Teaching\Extra\Demo\Demo\bin\Debug\net8.0\Demo.deps.json
+D:\Programming\Teaching\Extra\Demo\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+D:\Programming\Teaching\Extra\Demo\Demo\bin\Debug\net8.0\Demo.dll
+D:\Programming\Teaching\Extra\Demo\Demo\bin\Debug\net8.0\Demo.pdb
+D:\Programming\Teaching\Extra\Demo\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Teaching\Extra\Demo\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+D:\Programming\Teaching\Extra\Demo\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+D:\Programming\Teaching\Extra\Demo\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+D:\Programming\Teaching\Extra\Demo\Demo\obj\Debug\net8.0\Demo.sourcelink.json
+D:\Programming\Teaching\Extra\Demo\Demo\obj\Debug\net8.0\Demo.dll
+D:\Programming\Teaching\Extra\Demo\Demo\obj\Debug\net8.0\refint\Demo.dll
+D:\Programming\Teaching\Extra\Demo\Demo\obj\Debug\net8.0\Demo.pdb
+D:\Programming\Teaching\Extra\Demo\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+D:\Programming\Teaching\Extra\Demo\Demo\obj\Debug\net8.0\ref\Demo.dll
